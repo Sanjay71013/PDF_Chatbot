@@ -91,7 +91,7 @@ This will start the application locally. You can access it in your web browser a
 
 ## Contributing
 
-We welcome contributions to improve and enhance the Chat with PDFs application. If you'd like to contribute, please follow these steps:
+I welcome contributions to improve and enhance the Chat with PDFs application. If you'd like to contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
@@ -99,7 +99,7 @@ We welcome contributions to improve and enhance the Chat with PDFs application. 
 4. Test your changes thoroughly.
 5. Create a pull request against the main repository.
 
-We appreciate your contributions!
+I appreciate your contributions!
 
 ## License
 
